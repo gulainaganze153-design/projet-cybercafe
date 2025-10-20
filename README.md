@@ -3,9 +3,9 @@
 
 ## 👤 Auteur du projet
 
-**Nom :** Gulain Aganze Browne  
+**Nom :** Gulain Aganze nshombo 
 **GitHub :** [gulainaganze153-design](https://github.com/gulainaganze153-design)  
-**Cours :** Projet Informatique 1  
+**Cours :** Projet 2
 **Encadrant :** Professeur Ferdinand niragira
 ---
 
@@ -17,4 +17,5 @@ Ce projet est en constante amélioration :
 - Design futuriste et responsive en cours de développement
 
 ---
+
 
